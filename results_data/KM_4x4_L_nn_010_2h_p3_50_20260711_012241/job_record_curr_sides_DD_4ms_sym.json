@@ -1,0 +1,775 @@
+{
+    "job_id": "d9ggd5jsbqfc73eoj33g",
+    "backend_name": "ibm_miami",
+    "filename": "KM_4x4_L_nn_010_2h_p3_50_20260711_012241",
+    "pub_mapping": [
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_0_Ref_False"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_90_Ref_False"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_180_Ref_False"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_270_Ref_False"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_0_Ref_True"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_90_Ref_True"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_180_Ref_True"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_270_Ref_True"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_0_Ref_False"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_90_Ref_False"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_180_Ref_False"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_270_Ref_False"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_0_Ref_True"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_90_Ref_True"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_180_Ref_True"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_270_Ref_True"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_0_Ref_False"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_90_Ref_False"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_180_Ref_False"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_270_Ref_False"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_0_Ref_True"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_90_Ref_True"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_180_Ref_True"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_270_Ref_True"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_0_Ref_False"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_90_Ref_False"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_180_Ref_False"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_270_Ref_False"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_0_Ref_True"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_90_Ref_True"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_180_Ref_True"
+        },
+        {
+            "bond": [
+                1,
+                13
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_270_Ref_True"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_0_Ref_False"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_90_Ref_False"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_180_Ref_False"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_270_Ref_False"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_0_Ref_True"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_90_Ref_True"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_180_Ref_True"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_270_Ref_True"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_0_Ref_False"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_90_Ref_False"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_180_Ref_False"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_270_Ref_False"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_0_Ref_True"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_90_Ref_True"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_180_Ref_True"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_270_Ref_True"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_0_Ref_False"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_90_Ref_False"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_180_Ref_False"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_270_Ref_False"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_0_Ref_True"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_90_Ref_True"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_180_Ref_True"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_270_Ref_True"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_0_Ref_False"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_90_Ref_False"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_180_Ref_False"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_270_Ref_False"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_0_Ref_True"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_90_Ref_True"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_180_Ref_True"
+        },
+        {
+            "bond": [
+                14,
+                2
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_270_Ref_True"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_0_Ref_False"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_90_Ref_False"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_180_Ref_False"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_270_Ref_False"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_0_Ref_True"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_90_Ref_True"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_180_Ref_True"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "XX",
+            "layout_name": "Rot_270_Ref_True"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_0_Ref_False"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_90_Ref_False"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_180_Ref_False"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_270_Ref_False"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_0_Ref_True"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_90_Ref_True"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_180_Ref_True"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "YY",
+            "layout_name": "Rot_270_Ref_True"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_0_Ref_False"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_90_Ref_False"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_180_Ref_False"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_270_Ref_False"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_0_Ref_True"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_90_Ref_True"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_180_Ref_True"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "XY",
+            "layout_name": "Rot_270_Ref_True"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_0_Ref_False"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_90_Ref_False"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_180_Ref_False"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_270_Ref_False"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_0_Ref_True"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_90_Ref_True"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_180_Ref_True"
+        },
+        {
+            "bond": [
+                7,
+                4
+            ],
+            "basis": "YX",
+            "layout_name": "Rot_270_Ref_True"
+        }
+    ]
+}

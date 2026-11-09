@@ -1,0 +1,22 @@
+# Python environments and generated files
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# JAX/NVIDIA caches
+.jax_compound_cache/
+.nv/
+
+# Large data files
+*.npy
+*.npz
+*.hdf5
+
+# Editor and OS files
+.vscode/
+.DS_Store
+Thumbs.db
