@@ -16,7 +16,7 @@ from square_geometry import gridGraph
 # KAPIT-MUELLER HOPPING
 # =====================================================================
 
-def kapit_mueller_J_matrix(G: nx.Graph, alpha: float, n_images: int = 2) -> np.ndarray:
+def kapit_mueller_J_matrix(G: nx.Graph, alpha: float, n_images: int = 4) -> np.ndarray:
     """
     Computes the exact long-range single-particle KM hopping matrix on a torus.
     Explicitly sums over periodic image vectors R = (n*Lx, m*Ly) to preserve 
@@ -80,7 +80,7 @@ def kapit_mueller_J_matrix(G: nx.Graph, alpha: float, n_images: int = 2) -> np.n
                     J_val = J(zj, z_full)
                     
                     # Boundary Magnetic Translation Phase factor
-                    phase_MPBC = (np.pi / 2) * (zj * R.conjugate() - zj.conjugate() * R) * alpha
+                    phase_MPBC = (np.pi / 2) * (zk * R.conjugate() - zk.conjugate() * R) * alpha
                     
                     # Accumulate J(z_j, z + R) * exp(phase_MPBC)
                     t_matrix[j, k] += J_val * np.exp(phase_MPBC)
@@ -147,7 +147,7 @@ def solve_km_ground_state(dims: tuple, N: int, alpha: float, max_n: int = 1, k_s
         
     return eigenvalues, eigenvectors
 
-def compute_KM_groundstates(dims=(4,4), N=4, alpha=0.5, max_n=1, k_states=2, hole_nodes = [], hole_potential = 100, n_images = 2):
+def compute_KM_groundstates(dims=(4,4), N=4, alpha=0.5, max_n=1, k_states=2, hole_nodes = [], hole_potential = 100, n_images = 4):
     """
     Executes raw ED matrix diagonalization and outputs state payloads.
     If max_n > 1, the output vectors remain in the full soft basis, 
